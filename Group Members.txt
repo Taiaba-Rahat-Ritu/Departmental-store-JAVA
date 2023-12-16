@@ -1,0 +1,7 @@
+Project: Departmental Store Management System
+Section: F
+
+Member 1: Taiaba Rahat Ritu
+ID: 20-43746-2
+Member 2: Imran Hossain Maruf
+ID: 19-41806-3

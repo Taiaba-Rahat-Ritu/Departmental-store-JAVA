@@ -1,0 +1,30 @@
+1001,1,Tomato,30.00,50,true,null
+1002,1,Potato,50.00,50,true,null
+1003,1,Carrot,30.00,50,true,null
+1004,1,Cabbage,30.00,50,true,null
+1005,1,Cauliflower,20.00,50,true,null
+1006,1,Radish,32.00,50,true,null
+1007,1,Bitter gourd,38.00,50,true,null
+1008,1,Teasle gourd,34.00,50,true,null
+1009,1,Palwal,36.00,50,true,null
+1010,1,Green papaya,40.00,50,true,null
+2011,2,Beef,450.00,50,true,null
+2012,2,Batasi,250.00,50,true,null
+2013,2,Basa fish,250.00,50,true,null
+2014,2,Boaal,370.00,50,true,null
+2015,2,Chapila,390.00,50,true,null
+2016,2,Chitol,180.00,50,true,null
+2017,2,Ilish,330.00,50,true,null
+2018,2,Kalibaus,230.00,50,true,null
+2019,2,Chicken,285.00,50,true,null
+2020,2,Magur,195.00,50,true,null
+3021,3,Coka-cola,35.00,50,true,The Coka-cola Company
+3022,3,Pran Mango juice,30.00,50,true,Pran Company
+3023,3,Mirinda,30.00,50,true,Mirinda Company
+3024,3,7 up,30.00,50,true,7 up Company
+3025,3,Sprite,35.00,50,true,Sprite Company
+3026,3,Mountain Duo,35.00,50,true,Mountain Duo Company
+3027,3,Pran up,35.00,50,true,Pran Company
+3028,3,Pran zerra Pani,35.00,50,true,Pran Company
+3029,3,Fanta,35.00,50,true,Fanta Company
+3030,3,Clemon,35.00,50,true,Clemon Company
